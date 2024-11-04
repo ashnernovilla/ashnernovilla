@@ -12,8 +12,9 @@ Throughout my career, I have gained worldwide experience in the Philippines, Ind
 - **Computer Vision and Image Processing:** OpenCV, FastAI, Mediapipe, Yolo 📷
 - **MLOps:** MLflow, Airflow 🔄
 ### Internet of Things:
-- **Microcontrollers:** Arduino, PIC Microcontroller
-- **Online Dashboard:** Thingspeak 
+- **Microcontrollers:** Arduino, PIC Microcontroller, Raspberry Pi, ESP8266
+- **Online Dashboard and Tools:** Thingspeak, LabView, MultiSim, Proteus
+- **Sensors:** IoT Sensors 
 ### Data Processing & Visualization:
 - **Data Analysis and Manipulation:** Pandas 🐼, Numpy, Scipy, Excel 📈
 - **Data Visualization:** Tableau, Power BI, Excel Charts, Jupyter Notebook, Plotly, Seaborn 📉
@@ -25,10 +26,10 @@ Throughout my career, I have gained worldwide experience in the Philippines, Ind
 ### Infrastructure:
 - **Relational Database:** MongoDB, MySQL, PostgreSQL, MSSQL Server 🗄️
 - **Graph Database:** SparQL, Neo4J 🕸️ 
-- **Vector Database:** FAISS, ChromaDB, Pinecone ↗
+- **Vector Database:** FAISS, ChromaDB ↗
 - **Version Control:** GitHub 🔄
 - **Infrastructure as Code:** Terraform 🏗️
-- **Containerization:** Docker 📦
+- **Containerization:** Docker, kubernetes, Fusion Compute, VMWare, VBox 📦
 ### Project Management:
 - **Project Management Tools:** Jira, Notion 📋, Next Cloud, Focal Board
 ### Data Center:
