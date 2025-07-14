@@ -5,7 +5,7 @@ Throughout my career, I have gained worldwide experience in the Philippines, Ind
 
 ## Skills and Technologies 🛠️
 ### Programming Languages:
-- Python 🐍, C, C++ ➕➕, JavaScript 📜
+- Python 🐍, C, C➕➕, JavaScript 📜
 ### Machine Learning & Data Science:
 - **Machine Learning / Deep Learning:** PyTorch 🔥, Tensorflow, Keras, Scikit-Learn 📊
 - **Natural Language Processing & Natural Language Understanding:** HuggingFace - Transformers, NLTK, Inflection, SpaCy, Gensim, OpenAI, LangChain, Llama-Index 📝
